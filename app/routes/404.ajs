@@ -1,3 +1,0 @@
-<% include(Bloggify.partials.header) %>
-Not found.
-<% include(Bloggify.partials.footer) %>
